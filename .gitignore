@@ -1,0 +1,15 @@
+# Папки
+/node_modules
+/build
+/dist
+
+# Файли
+.env
+
+# IDE и редактори кода
+.vscode/
+.idea/
+
+# Решта
+.DS_Store
+Thumbs.db
